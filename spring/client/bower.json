@@ -1,0 +1,26 @@
+{
+  "name": "spring-client",
+  "homepage": "https://github.com/mmulji/sandbox",
+  "authors": [
+    "Milan Mulji <milan.mulji@mmedia-cs.com>"
+  ],
+  "description": "Knockout based client for Spring REST api application.",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "spring",
+    "knockout"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "knockout": "~3.4.0"
+  }
+}
